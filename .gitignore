@@ -1,0 +1,10 @@
+# VirtualEnv
+hnv/
+
+# Compiled
+*.pyc
+
+# Misc
+test.py
+data/
+html/
